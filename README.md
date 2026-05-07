@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sayan-patra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/sayan-patra-426833193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="mailto:sayanpatra017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://github.com/sayan049"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
 <a href="https://curalink-2-0.vercel.app"><img src="https://img.shields.io/badge/Curalink-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
@@ -131,7 +131,7 @@ Technologies
 <div align="center">
 <a href="mailto:sayanpatra017@gmail.com"><img src="https://img.shields.io/badge/📧_Email-sayanpatra017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/sayan-patra"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sayan-patra-426833193/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="tel:+917479170108"><img src="https://img.shields.io/badge/📞_Phone-+91_7479170108-00d4aa?style=for-the-badge"/></a>
 
